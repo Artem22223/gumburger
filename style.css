@@ -1,0 +1,55 @@
+.ee{
+    text-decoration: none;
+    color:orange;
+    font-size:26px ;
+    top: 39px;
+    position: absolute;
+    border:1px solid teal ;
+    border-radius:30px ;
+    background-color:teal ;
+    padding: 5px 5px 5px 5px;
+}
+header{
+    background-color: black;
+}
+.er{
+    text-decoration: none;
+    color:orange;
+    font-size:24px ;
+    top:39px;
+    left: 210px;
+    position: absolute;
+    border:1px solid teal ;
+    border-radius:30px ;
+    background-color:teal ;
+    padding: 5px 5px 5px 5px;
+}
+.et{
+    text-decoration: none;
+    color:orange;
+    font-size:24px ;
+    top: 39px;
+    left: 295px;
+    position: absolute;
+    border:1px solid teal ;
+    border-radius:30px ;
+    background-color:teal ;
+    padding: 5px 5px 5px 5px;
+}
+.go{
+    margin:1px 0px 1px 0px ;
+}
+.bo{
+    margin:1px 0px 1px 0px ;
+}
+.by{
+    margin:20px 0px 1px 0px ;
+}
+.vverh{
+    text-decoration: none;
+    color:black;
+    font-size:24px ;
+}
+.footer{
+    font-size: 40px;
+}
